@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JaRoMasterDev
-- 👀 I’m interested in development in general, especially in app-, web-, and game-development
-- 🌱 I’m currently improving my skills in web- and app-development by building projects over prrojects
-- 💞️ I’m looking to collaborate on interesting projects like apps or bigger games
-- 📫 You can reach me through the contact form on my [portfolio website](jaromasterdev.github.io)
+- 👀 I’m interested in development, especially in app- and web-development
+- 🌱 I love learning and improving my skills while building real-world-applications
+- 📫 You can reach me through the contact form on my [portfolio website](https://jarne-rolf.de)
 
 <!---
 JaRoMasterDev/JaRoMasterDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
